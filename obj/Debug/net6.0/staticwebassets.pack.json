@@ -33,6 +33,10 @@
       "PackagePath": "staticwebassets\\Images\\lasagnatoppa.jfif"
     },
     {
+      "Id": "C:\\Users\\xavia\\Documents\\GitHub\\FlavourFrenzy\\FlavourFrenzy\\wwwroot\\Images\\logo.jpg",
+      "PackagePath": "staticwebassets\\Images\\logo.jpg"
+    },
+    {
       "Id": "C:\\Users\\xavia\\Documents\\GitHub\\FlavourFrenzy\\FlavourFrenzy\\wwwroot\\Images\\quarterpounder.jfif",
       "PackagePath": "staticwebassets\\Images\\quarterpounder.jfif"
     },
